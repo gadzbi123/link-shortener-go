@@ -1,0 +1,3 @@
+linksInMemory: 10
+linksCleanerSchedule: 1m 
+port: ":9090"
